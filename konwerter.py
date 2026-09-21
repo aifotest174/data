@@ -1,5 +1,7 @@
+
 import json
 from openpyxl import load_workbook
+from flask import Flask, send_file, jsonify
 
 INPUT_FILE = "produkty.xlsx"
 OUTPUT_FILE = "data.json"
@@ -13,6 +15,8 @@ REQUIRED_COLUMNS = [
     "Jednostka Miary"
 ]
 
+app = Flask(__name__)
+
 
 def clean(value):
     if value is None:
@@ -21,7 +25,7 @@ def clean(value):
     return str(value).strip()
 
 
-def main():
+def generate_json():
     print("Otwieranie pliku Excel...")
 
     workbook = load_workbook(
@@ -49,15 +53,19 @@ def main():
     if missing:
         print()
         print("BLAD: Brakuje kolumn:")
+
         for column in missing:
             print("-", column)
 
         print()
         print("Dostepne kolumny:")
+
         for column in headers:
             print("-", column)
 
-        return
+        workbook.close()
+
+        raise RuntimeError("Brakuje wymaganych kolumn w pliku Excel.")
 
     products = []
 
@@ -118,10 +126,36 @@ def main():
 
     print()
     print("Gotowe!")
-    print()
     print("Liczba produktow:", len(products))
     print("Utworzono plik:", OUTPUT_FILE)
 
+    return len(products)
+
+
+@app.get("/")
+def home():
+    return jsonify({
+        "status": "ok",
+        "message": "API magazynowe działa",
+        "endpoint": "/data.json"
+    })
+
+
+@app.get("/data.json")
+def data():
+    return send_file(
+        OUTPUT_FILE,
+        mimetype="application/json"
+    )
+
 
 if __name__ == "__main__":
-    main()
+    # Najpierw wygeneruj aktualny JSON z Excela
+    generate_json()
+
+    # Następnie uruchom serwer HTTP
+    app.run(
+        host="0.0.0.0",
+        port=8080
+    )
+
