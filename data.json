@@ -1,0 +1,396 @@
+{
+  "products": [
+    {
+      "kod": "00002",
+      "nazwa": "Aparat grzewczo-wentylacyjny EOLO BC 55 AE",
+      "opis": "opis",
+      "ean": "2010000150429",
+      "sztuki": 0,
+      "jednostkaMiary": "sxt."
+    },
+    {
+      "kod": "00003",
+      "nazwa": "Wentylator dachowy VIVO 500/9600TEC",
+      "opis": "opis",
+      "ean": "2010000151297",
+      "sztuki": 0,
+      "jednostkaMiary": "sxt."
+    },
+    {
+      "kod": "00004",
+      "nazwa": "Wentylator dachowy VIVO 560/13100TEC",
+      "opis": "opis",
+      "ean": "2010000151303",
+      "sztuki": 0,
+      "jednostkaMiary": "sxt."
+    },
+    {
+      "kod": "00005",
+      "nazwa": "Przepływomierz elektromagnetyczny MAGFLO 5100",
+      "opis": "opis",
+      "ean": "2010000151310",
+      "sztuki": 0,
+      "jednostkaMiary": "sxt."
+    },
+    {
+      "kod": "00006",
+      "nazwa": "Gazomierz miechowy G40",
+      "opis": "opis",
+      "ean": "2010000151327",
+      "sztuki": 0,
+      "jednostkaMiary": "sxt."
+    },
+    {
+      "kod": "00007",
+      "nazwa": "Gazomierz miechowy G4",
+      "opis": "opis",
+      "ean": "2010000151334",
+      "sztuki": 0,
+      "jednostkaMiary": "sxt."
+    },
+    {
+      "kod": "00008",
+      "nazwa": "Gazomierz rotorowy Delta G65",
+      "opis": "opis",
+      "ean": "2010000151341",
+      "sztuki": 0,
+      "jednostkaMiary": "sxt."
+    },
+    {
+      "kod": "00009",
+      "nazwa": "Podgrzewacz CWU PW1 400",
+      "opis": "opis",
+      "ean": "2010000151358",
+      "sztuki": 0,
+      "jednostkaMiary": "sxt."
+    },
+    {
+      "kod": "00010",
+      "nazwa": "Kocioł gazowy AMC 25",
+      "opis": "opis",
+      "ean": "2010000151365",
+      "sztuki": 0,
+      "jednostkaMiary": "sxt."
+    },
+    {
+      "kod": "00011",
+      "nazwa": "Jednostka zewnętrzna klimatyzacji UUB1.U20",
+      "opis": "opis",
+      "ean": "2010000150092",
+      "sztuki": 0,
+      "jednostkaMiary": "sxt."
+    },
+    {
+      "kod": "00012",
+      "nazwa": "Ciepłomierz kompaktowy Hydrocal M4",
+      "opis": "opis",
+      "ean": "2010000151402",
+      "sztuki": 0,
+      "jednostkaMiary": "sxt."
+    },
+    {
+      "kod": "00013",
+      "nazwa": "Naczynie przeponowe Refix DD33",
+      "opis": "opis",
+      "ean": "2010000151419",
+      "sztuki": 0,
+      "jednostkaMiary": "sxt."
+    },
+    {
+      "kod": "00014",
+      "nazwa": "Wymiennik CWU SGW(S) MAXI 800",
+      "opis": "opis",
+      "ean": "2010000151273",
+      "sztuki": 0,
+      "jednostkaMiary": "sxt."
+    },
+    {
+      "kod": "00015",
+      "nazwa": "Elektryczny podgrzewacz wody GCV 50 44 15 B11 TSRC",
+      "opis": "opis",
+      "ean": "2010000151266",
+      "sztuki": 0,
+      "jednostkaMiary": "sxt."
+    },
+    {
+      "kod": "00016",
+      "nazwa": "Elektryczny podgrzewacz wody GCA 1015 L52 RC",
+      "opis": "opis",
+      "ean": "2010000144176",
+      "sztuki": 0,
+      "jednostkaMiary": "sxt."
+    },
+    {
+      "kod": "00017",
+      "nazwa": "Nagrzewnica elektryczna HCD-INT PTC/PS 125/12/1",
+      "opis": "opis",
+      "ean": "2010000151259",
+      "sztuki": 0,
+      "jednostkaMiary": "sxt."
+    },
+    {
+      "kod": "00018",
+      "nazwa": "Nagrzewnica elektryczna HCD-INT PTC/PS 125/09/1",
+      "opis": "opis",
+      "ean": "2010000151242",
+      "sztuki": 0,
+      "jednostkaMiary": "sxt."
+    },
+    {
+      "kod": "00019",
+      "nazwa": "Nagrzewnica elektryczna HCD-INT PTC/PS 100/09/1",
+      "opis": "opis",
+      "ean": "2010000128534",
+      "sztuki": 0,
+      "jednostkaMiary": "sxt."
+    },
+    {
+      "kod": "00020",
+      "nazwa": "Wentylator osiowy 300/R/6-6/40/230",
+      "opis": "opis",
+      "ean": "2010000150337",
+      "sztuki": 0,
+      "jednostkaMiary": "sxt."
+    },
+    {
+      "kod": "00021",
+      "nazwa": "Wentylator osiowy 500/R/3-6/45/230",
+      "opis": "opis",
+      "ean": "2010000150344",
+      "sztuki": 0,
+      "jednostkaMiary": "sxt."
+    },
+    {
+      "kod": "00022",
+      "nazwa": "Kurtyna powietrzna Guard One 100C",
+      "opis": "opis",
+      "ean": "2010000150351",
+      "sztuki": 0,
+      "jednostkaMiary": "sxt."
+    },
+    {
+      "kod": "00023",
+      "nazwa": "Destratyfikator powietrza DS 600",
+      "opis": "opis",
+      "ean": "2010000150368",
+      "sztuki": 0,
+      "jednostkaMiary": "sxt."
+    },
+    {
+      "kod": "00024",
+      "nazwa": "Aparat grzewczo-wentylacyjny EOLO NBC 45 AE",
+      "opis": "opis",
+      "ean": "2010000150375",
+      "sztuki": 0,
+      "jednostkaMiary": "sxt."
+    },
+    {
+      "kod": "00025",
+      "nazwa": "Pompa ciepła GRS-CQ16Pd/NhH-M/I",
+      "opis": "opis",
+      "ean": "2010000150405",
+      "sztuki": 0,
+      "jednostkaMiary": "sxt."
+    },
+    {
+      "kod": "00026",
+      "nazwa": "Agregat skraplający GUD140W1/NhA-X",
+      "opis": "opis",
+      "ean": "2010000150429",
+      "sztuki": 0,
+      "jednostkaMiary": "sxt."
+    },
+    {
+      "kod": "00027",
+      "nazwa": "Wentylator kanałowy ML EC.A 150-160/530",
+      "opis": "opis",
+      "ean": "2010000150436",
+      "sztuki": 1,
+      "jednostkaMiary": "szt"
+    },
+    {
+      "kod": "00028",
+      "nazwa": "Wentylator kanałowy ML EC.A 125/300",
+      "opis": "opis",
+      "ean": "2010000149843",
+      "sztuki": 1,
+      "jednostkaMiary": "szt"
+    },
+    {
+      "kod": "00029",
+      "nazwa": "Wentylator osiowy WAX 250/W/4/1350S",
+      "opis": "opis",
+      "ean": "2010000150450",
+      "sztuki": 0,
+      "jednostkaMiary": "szt"
+    },
+    {
+      "kod": "00030",
+      "nazwa": "Wentylator dachowy VIVER 190/600 EC",
+      "opis": "opis",
+      "ean": "2010000150467",
+      "sztuki": 0,
+      "jednostkaMiary": "szt"
+    },
+    {
+      "kod": "00031",
+      "nazwa": "Grzejnik elektryczny TX 500",
+      "opis": "003027",
+      "ean": "2010000130667",
+      "sztuki": 0,
+      "jednostkaMiary": "szt"
+    },
+    {
+      "kod": "00032",
+      "nazwa": "Grzejnik elektryczny TX 1000",
+      "opis": "003027",
+      "ean": "2010000129951",
+      "sztuki": 0,
+      "jednostkaMiary": "szt"
+    },
+    {
+      "kod": "00033",
+      "nazwa": "Wodomierz wielostrumieniowy, suchobieżny GMDM-I Z R100-H/R50-V, DN 15, Q3=2,5 m3/h",
+      "opis": "opis",
+      "ean": "2010000150498",
+      "sztuki": 0,
+      "jednostkaMiary": "szt"
+    },
+    {
+      "kod": "00034",
+      "nazwa": "Wodomierz jednostrumieniowy, suchobieżny GSD8-RFM Z R100-H/R50-V, DN 15, Q3=2,5 m3/h",
+      "opis": "opis",
+      "ean": "2010000150504",
+      "sztuki": 0,
+      "jednostkaMiary": "szt"
+    },
+    {
+      "kod": "00035",
+      "nazwa": "Wodomierz jednostrumieniowy, suchobieżny GSD8-RFM C R100-H/R50-V, DN 15, Q3=2,5 m3/h",
+      "opis": "opis",
+      "ean": "2010000150511",
+      "sztuki": 0,
+      "jednostkaMiary": "szt"
+    },
+    {
+      "kod": "00036",
+      "nazwa": "Gazomierz miechowy G16",
+      "opis": "opis",
+      "ean": "2010000150528",
+      "sztuki": 0,
+      "jednostkaMiary": "szt"
+    },
+    {
+      "kod": "00037",
+      "nazwa": "Jednostka zewnętrzna klimatyzacji RXYA10A",
+      "opis": "opis",
+      "ean": "2010000150542",
+      "sztuki": 0,
+      "jednostkaMiary": "szt"
+    },
+    {
+      "kod": "00038",
+      "nazwa": "Jednostka wewnętrzna klimatyzacji kanałowa FXMA250A",
+      "opis": "opis",
+      "ean": "2010000150559",
+      "sztuki": 0,
+      "jednostkaMiary": "szt"
+    },
+    {
+      "kod": "00039",
+      "nazwa": "Jednostka zewnętrzna klimatyzacji REYA14A",
+      "opis": "opis",
+      "ean": "2010000150566",
+      "sztuki": 0,
+      "jednostkaMiary": "szt"
+    },
+    {
+      "kod": "00040",
+      "nazwa": "Moduł rozgałęźny BS6A14AV1B",
+      "opis": "opis",
+      "ean": "2010000150573",
+      "sztuki": 0,
+      "jednostkaMiary": "szt"
+    },
+    {
+      "kod": "00041",
+      "nazwa": "Jednostka wewnętrzna klimatyzacji ścienna FXAA15A",
+      "opis": "opis",
+      "ean": "2010000150580",
+      "sztuki": 0,
+      "jednostkaMiary": "szt"
+    },
+    {
+      "kod": "00042",
+      "nazwa": "Jednostka wewnętrzna klimatyzacji kanałowa FXSA15A",
+      "opis": "opis",
+      "ean": "2010000150597",
+      "sztuki": 0,
+      "jednostkaMiary": "szt"
+    },
+    {
+      "kod": "00043",
+      "nazwa": "Jednostka wewnętrzna klimatyzacji kanałowa FXSA25A",
+      "opis": "opis",
+      "ean": "2010000150603",
+      "sztuki": 0,
+      "jednostkaMiary": "szt"
+    },
+    {
+      "kod": "00044",
+      "nazwa": "Jednostka wewnętrzna klimatyzacji kanałowa FXSA32A",
+      "opis": "opis",
+      "ean": "2010000150610",
+      "sztuki": 0,
+      "jednostkaMiary": "szt"
+    },
+    {
+      "kod": "00045",
+      "nazwa": "Jednostka wewnętrzna klimatyzacji kanałowa FXSA40A",
+      "opis": "opis",
+      "ean": "2010000150627",
+      "sztuki": 0,
+      "jednostkaMiary": "szt"
+    },
+    {
+      "kod": "00046",
+      "nazwa": "Jednostka wewnętrzna klimatyzacji kanałowa FXSA50A",
+      "opis": "opis",
+      "ean": "2010000150634",
+      "sztuki": 0,
+      "jednostkaMiary": "szt"
+    },
+    {
+      "kod": "00047",
+      "nazwa": "Jednostka wewnętrzna klimatyzacji kasetonowa FXZA15A2VEB",
+      "opis": "opis",
+      "ean": "2010000150641",
+      "sztuki": 0,
+      "jednostkaMiary": "szt"
+    },
+    {
+      "kod": "00048",
+      "nazwa": "Jednostka wewnętrzna klimatyzacji kasetonowa FXZA20A2VEB",
+      "opis": "opis",
+      "ean": "2010000151198",
+      "sztuki": 0,
+      "jednostkaMiary": "szt"
+    },
+    {
+      "kod": "00049",
+      "nazwa": "Jednostka wewnętrzna klimatyzacji kasetonowa FXZA32A2VEB",
+      "opis": "opis",
+      "ean": "2010000150658",
+      "sztuki": 0,
+      "jednostkaMiary": "szt"
+    },
+    {
+      "kod": "00050",
+      "nazwa": "Jednostka zewnętrzna klimatyzacji RXP50N8",
+      "opis": "opis",
+      "ean": "2010000150665",
+      "sztuki": 0,
+      "jednostkaMiary": "szt"
+    }
+  ]
+}
